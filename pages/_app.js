@@ -9,8 +9,7 @@ function MyApp({Component, pageProps}) {
                 <header className="sc-u7tzga-1 hPYOlB">
                     {/*<div className="sc-1o0de0t-0 sc-u7tzga-5 eNmyuB dOdoJr"></div>*/}
                     <div id="logo" className="sc-u7tzga-2 WcvBn">
-                        <Link aria-label="Go to homepage" href="/product" className="sc-1m0vvus-0 kzrwnV"><Image
-                            src={"/NUTI.png"} width={80} height={50}></Image></Link>
+                        <Link aria-label="Go to homepage" href="/product" className="sc-1m0vvus-0 kzrwnV">nuti mall</Link>
                     </div>
                     <div className="sc-1bg9vab-0 ejaLtM">
                         <div className="sc-1e0d7x8-0 AqSpN">

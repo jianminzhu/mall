@@ -18,7 +18,7 @@ export default function Home({}) {
                             alt={it.title}
                             width={200}
                             height={200}
-                            src={it.images[0]}
+                            src={"/img_p/" + it.productId + ".jpg"}
                             importance="high"/>
                     </div>
                 </div>
