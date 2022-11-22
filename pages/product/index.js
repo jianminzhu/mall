@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link'
-import p from "../datas/data_products";
+import p from "../../datas/data_products";
 
 export default function Home({}) {
     function getLi3(it, index) {

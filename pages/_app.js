@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }) {
         <header className="sc-u7tzga-1 hPYOlB">
           {/*<div className="sc-1o0de0t-0 sc-u7tzga-5 eNmyuB dOdoJr"></div>*/}
           <div id="logo" className="sc-u7tzga-2 WcvBn">
-          	  <Link aria-label="Go to homepage" href="/" className="sc-1m0vvus-0 kzrwnV">
+          	  <Link aria-label="Go to homepage" href="/product" className="sc-1m0vvus-0 kzrwnV">
             Independent cross-border e-commerce station
           </Link></div>
           <div className="sc-1bg9vab-0 ejaLtM">
